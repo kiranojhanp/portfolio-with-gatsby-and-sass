@@ -6,7 +6,7 @@ import { AiFillHome, AiFillCamera, AiOutlineMail } from "react-icons/ai"
 import { BsChatQuote, BsPersonBoundingBox } from "react-icons/bs"
 import { BiCodeBlock } from "react-icons/bi"
 
-export default function layout({ children }) {
+export default function Layout({ children }) {
   return (
     <div>
       <aside className="sidebar">
@@ -37,9 +37,9 @@ export default function layout({ children }) {
               </a>
             </li>
             <li>
-              <a href="/camera" className="sidebar__nav__link">
+              <a href="/myhobbies" className="sidebar__nav__link">
                 <AiFillCamera size="2.5em" />
-                <span className="sidebar__nav__text">Camera</span>
+                <span className="sidebar__nav__text">My hobbies</span>
               </a>
             </li>
             <li>
