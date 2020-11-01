@@ -14,9 +14,12 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "@mdi/font": "^5.8.55",
     "gatsby": "^2.24.91",
+    "particlesjs": "^2.2.3",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-tsparticles": "^1.18.8"
   },
   "devDependencies": {
     "prettier": "2.1.2"
