@@ -2,7 +2,6 @@ import React from "react"
 import Layout from "../components/layout"
 import Particles from "react-tsparticles"
 
-
 export default function Home() {
   return (
     <Layout>
@@ -33,6 +32,12 @@ export default function Home() {
                 enable: true,
                 mode: "repulse",
               },
+              onDiv: {
+                enable: true,
+                selectors: ".container",
+                mode: "bounce",
+                type: "rectangle",
+              },
               resize: true,
             },
             modes: {
@@ -52,6 +57,11 @@ export default function Home() {
             },
           },
           particles: {
+            background: {
+              color: {
+                value: "#F2F5EA",
+              },
+            },
             color: {
               value: "#e75a7c",
             },

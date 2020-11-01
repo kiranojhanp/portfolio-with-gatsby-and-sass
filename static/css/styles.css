@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 :root {
     --sidebar-width: 4.5em;
   }
   
   html {
     scroll-behavior: smooth;
+    background: #F2F5EA;
   }
   
   body {
