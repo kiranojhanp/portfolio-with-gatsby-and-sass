@@ -45,7 +45,7 @@ export default function Home() {
                 distance: 200,
                 duration: 2,
                 opacity: 0.8,
-                size: 40,
+                size: 5,
               },
               push: {
                 quantity: 4,
@@ -57,11 +57,6 @@ export default function Home() {
             },
           },
           particles: {
-            background: {
-              color: {
-                value: "#F2F5EA",
-              },
-            },
             color: {
               value: "#e75a7c",
             },
@@ -88,7 +83,7 @@ export default function Home() {
                 enable: false,
                 value_area: 800,
               },
-              value: 85,
+              value: 35,
             },
             opacity: {
               value: 0.2,
