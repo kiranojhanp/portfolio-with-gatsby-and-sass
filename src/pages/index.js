@@ -63,8 +63,8 @@ export default function Home() {
             links: {
               color: "#e75a7c",
               distance: 150,
-              enable: true,
-              opacity: 0.5,
+              enable: false,
+              opacity: 0.2,
               width: 1,
             },
             collisions: {
@@ -83,7 +83,7 @@ export default function Home() {
                 enable: false,
                 value_area: 800,
               },
-              value: 35,
+              value: 100,
             },
             opacity: {
               value: 0.2,
@@ -92,7 +92,7 @@ export default function Home() {
               type: "circle",
             },
             size: {
-              random: false,
+              random: true,
               value: 5,
             },
           },
