@@ -4,17 +4,17 @@ import { Bar } from "@reactchartjs/react-chart.js"
 const data = {
   labels: [
     "Node/express",
-    "React",
+    "React + React Native",
     "MongoDB",
     "Flutter",
-    "Figma",
-    "Communication",
+    "SQL",
+    "Scrum",
     "Teamwork",
   ],
   datasets: [
     {
       label: "Current Skills",
-      data: [7, 8, 8, 5, 4.5, 5, 8],
+      data: [9, 9, 8, 5, 7, 9, 8],
       backgroundColor: [
         "rgba(231, 90, 124, 0.2)",
         "rgba(54, 162, 235, 0.2)",
@@ -38,7 +38,7 @@ const data = {
 
     {
       label: "Goal",
-      data: [10, 10, 10, 9, 8, 8, 10],
+      data: [10, 10, 10, 9, 8, 9, 10],
       backgroundColor: [
         "rgba(231, 90, 124, 0.8)",
         "rgba(54, 162, 235, 0.8)",

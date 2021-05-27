@@ -7,10 +7,7 @@ export default function myhobbies() {
       <section id="myworks">
         <h2>My works</h2>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro odio
-          placeat nobis quisquam, maxime, dolorem aperiam accusamus commodi eius
-          iste obcaecati. Mollitia magnam blanditiis asperiores. Voluptatibus
-          molestiae vel perspiciatis animi?
+          I 
         </p>
       </section>
     </Layout>

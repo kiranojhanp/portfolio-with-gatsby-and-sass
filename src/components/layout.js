@@ -30,7 +30,7 @@ export default function Layout({ children }) {
                 <span className="sidebar__nav__text">My works</span>
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="/testimonials" className="sidebar__nav__link">
                 <BsChatQuote size="2.5em" />
                 <span className="sidebar__nav__text">Testimonials</span>
@@ -41,7 +41,7 @@ export default function Layout({ children }) {
                 <AiFillCamera size="2.5em" />
                 <span className="sidebar__nav__text">My hobbies</span>
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="/contact" className="sidebar__nav__link">
                 <AiOutlineMail size="2.5em" />

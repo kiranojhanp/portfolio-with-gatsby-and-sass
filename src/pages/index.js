@@ -10,7 +10,7 @@ export default function Home() {
           <h1>
             <span>Kiran</span>
           </h1>
-          <span className="des">MERN & Flutter developer</span>
+          <span className="des">MERN & React Native developer</span>
           <a className="btn" href="./me.jpg" download>
             Hire me
           </a>

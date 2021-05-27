@@ -7,10 +7,7 @@ export default function testimonials() {
       <section id="testimonials">
         <h2>Testimonials</h2>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto,
-          aut necessitatibus, non ab nemo illum adipisci alias sed expedita
-          dicta ut repellendus laborum ratione iusto facilis fugit deleniti
-          neque numquam?
+          Coming soon
         </p>
       </section>
     </Layout>

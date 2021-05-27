@@ -9,21 +9,21 @@ export default function about() {
       <section id="aboutme">
         <h2>About me</h2>
         <p>
+          <strong>Hello, I am Kiran Ojha</strong>
+        </p>
+        <p>
+          I am a highly self motivated developer who spends most of his time
+          building applications and learning latest technologies. I primarily
+          specialize on MERN stack and react native however, I am familiar with
+          android and flutter too. I have a good experience working on agile
+          processes, especially SCRUM. I am a recent graduate from Softwarica
+          college, Dillibazar. <br />
+        </p>
+        <p>
           <strong>
-            I am a fullstack MERN developer with a year of experience. I also
-            have good experience with php & mySQL.
+            My current skillset with respect to my current is shown on this
+            chart:
           </strong>
-        </p>
-        <p>
-          I am doing last semester of my bachelors at Softwarica college,
-          dillibazar. I have good concepts of methodologies like waterfall,
-          agile, etc. I also have good knowledge of database concepts like
-          normalization. I was taught MERN & android at my college but I am
-          mostly a self taught for flutter. I have used Dr. angela yu course and
-          various youtube videos int his process.
-        </p>
-        <p>
-          <strong>My skillset can be viewed in this following chart:</strong>
         </p>
         <Chart />
       </section>
