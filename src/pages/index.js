@@ -11,7 +11,7 @@ export default function Home() {
             <span>Kiran</span>
           </h1>
           <span className="des">MERN & React Native developer</span>
-          <a className="btn" href="./me.jpg" download>
+          <a className="btn" target="_blank" href="https://i.imgur.com/nrhT5HB.png" download>
             Hire me
           </a>
         </div>
